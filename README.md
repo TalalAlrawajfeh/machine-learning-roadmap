@@ -291,7 +291,7 @@
 
 * [scikit-learn Tutorials - scikit-learn.org](https://scikit-learn.org/stable/tutorial/index.html)
 
-* [https://www.tensorflow.org/tutorials - tensorflow.org](https://www.tensorflow.org/tutorials)
+* [Get Started with TensorFlow - tensorflow.org](https://www.tensorflow.org/tutorials)
 
 * [TensorFlow Tutorial: Deep Learning for Beginner’s - guru99](https://www.guru99.com/tensorflow-tutorial.html)
 
